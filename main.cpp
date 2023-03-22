@@ -1,7 +1,3 @@
-/*
- * rosserial Subscriber Example
- * Blinks an LED on callback
- */
 #include "mbed.h"
 #include <ros.h>
 #include <std_msgs/Empty.h>
